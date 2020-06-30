@@ -30,6 +30,8 @@ header {
   justify-content: center;
   align-items: center;
   background-color: $heading-colour;
+  animation: flickerShadow 1.5s infinite alternate;
+  
 
   h1 {
     font-size: 50px;
