@@ -26,6 +26,8 @@ body {
 
 header {
   padding: 32px;
+  position: relative;
+  z-index: 9999;
   display: flex;
   justify-content: center;
   align-items: center;
